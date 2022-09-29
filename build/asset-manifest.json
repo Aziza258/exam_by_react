@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b68333c.css",
+    "main.js": "/static/js/main.748f009d.js",
+    "static/media/1646367575_2-abrakadabra-fun-p-tsvetnoi-fon-dlya-teksta-bez-risunka-odnot-2.jpg": "/static/media/1646367575_2-abrakadabra-fun-p-tsvetnoi-fon-dlya-teksta-bez-risunka-odnot-2.3aa6ca6a888d9a1ad48f.jpg",
+    "index.html": "/index.html",
+    "main.1b68333c.css.map": "/static/css/main.1b68333c.css.map",
+    "main.748f009d.js.map": "/static/js/main.748f009d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b68333c.css",
+    "static/js/main.748f009d.js"
+  ]
+}
